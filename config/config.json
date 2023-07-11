@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "ShopE",
+    "password": "12345678",
+    "database": "shop_e",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "ShopE",
+    "password": "12345678",
+    "database": "shop_e",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "ShopE",
+    "password": "12345678",
+    "database": "shop_e",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
